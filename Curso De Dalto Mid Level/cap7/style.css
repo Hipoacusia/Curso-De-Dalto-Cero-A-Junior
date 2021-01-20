@@ -1,0 +1,17 @@
+body
+{
+  background: #f02706;
+  color: #fff;
+  font-family: sans-serif;
+}
+#nombre
+{
+  font-size: 50px;
+  margin: 20px;
+}
+.resultado
+{
+  background: #000;
+  color: #fff;
+  font-size: 40px;
+}

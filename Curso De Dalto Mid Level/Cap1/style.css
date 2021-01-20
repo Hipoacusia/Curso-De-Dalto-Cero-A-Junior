@@ -1,0 +1,45 @@
+body
+{
+  color: #222;
+  font-family: sans-serif;
+}
+
+h2
+{
+  color: #fff;
+}
+p
+{
+  padding: 10%;
+  color: #cfc;
+}
+article
+{
+  background: #000;
+}
+.contenedor-1
+{
+  padding: 20px;
+  background: red;
+}
+.contenedor-2
+{
+  padding: 30px;
+  background: blue;
+
+}
+.input-prueba{
+  border: 1px solid #000;
+  border-radius: 5px;
+  padding: 6px;
+  color: #666;
+  outline: none import;
+}
+
+p:hover
+{
+  background: #afa;
+}
+img{
+  background: blue;
+}
